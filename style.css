@@ -16,7 +16,6 @@ body{
     border-radius: 15px;
     padding: 14px;
     background-color: rgb(53, 52, 52);
-    color: aliceblue;
     
 }
 table td{
@@ -32,27 +31,28 @@ table td{
     background-color: rgb(15, 15, 15);
     font-size: 16px;
     transition:all 500ms case-in-out;
+    color: aliceblue;
 }
 .btn:hover{
-    background-color: rgb(189, 189, 189);
+    background-color: rgb(126, 125, 125);
 }
 .AC{
     background-color: rgb(25, 119, 111);
 }
 .AC:hover{
-    background-color: rgb(33, 224, 224);
+    background-color: rgb(32, 192, 192);
 }
 .neg{
     background-color: rgb(153, 33, 33);
 }
 .neg:hover{
-    background-color: rgb(238, 88, 88);
+    background-color: rgb(184, 55, 55);
 }
 .especial{
     background-color: rgb(192, 157, 2);
 }
 .especial:hover{
-    background-color: rgb(253, 249, 8);
+    background-color: rgb(197, 194, 21);
 }
 .igual{
     background-color: rgb(25, 119, 111);
